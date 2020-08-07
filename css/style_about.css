@@ -1,0 +1,30 @@
+.zagolovok
+{
+	font-size:30px;
+	font-family: Georgia, Sans-serif;
+	font-style: italic;
+}
+
+.container
+{
+	font-family: Georgia, Sans-serif;
+	font-style: italic;
+	font-size: 60px;
+}
+
+.line_about
+{
+	width: 83%;
+	height: auto;
+}
+.center_img
+{
+	position: relative;
+    text-align: center;
+}
+.blog-post
+{
+	font-size:20px;
+	font-family: Georgia, Sans-serif;
+	font-style: italic;
+}

@@ -1,0 +1,198 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html lang="ru">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="css/style_gallery.css" type="text/css"/>
+	<link rel="stylesheet" href="css/bootstrap.css" />
+	<title>Галерея || Gallery Julia Reznichenko</title>
+</head>
+
+<body>
+
+
+
+<header>
+	<div class="d-flex flex-column flex-md-row align-items-center p-2 px-md-4 mb-3 bg-light border-bottom shadow-sm" >
+		<a href="index1.html">
+			<img src="images/JR.png" alt="Логотип" title="Логотип" />
+		</a>
+		<a class="my-0 mr-md-auto"></a>
+		<nav class="my-2 my-md-0 mr-md-3">
+			<a class="py-2 text-dark" href="about.html"><div class="zagolovok">Обо мне</a>
+			<a class="p-2 text-dark" href="gallery.html">Галерея</a>
+			<a class="p-2 text-dark" href="contacts.html">Обратная связь</div></a>
+		</nav>
+		<a class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Войти</a>
+	</div>
+</header>
+
+
+
+<!--------------Основная часть-------------->
+<section class="jumbotron">
+	<h1 class="container">Gallery 
+		<img src="images/line.PNG" class="line_about">
+	</h1>
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+		<div class="text-center">
+			<img src="gallery/img4.JPG" alt="4" width=70% height=auto border="0" class="rounded">
+		</div>
+    </div>
+    <div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img6.JPG" alt="6" width=70% height=auto border="0" class="rounded">
+		</div>
+    </div>
+    <div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img7.JPG" alt="7" width=70% height=auto border="0" class="rounded">
+		</div>
+    </div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img8.JPG" alt="8" width=70% height=auto border="0" class="rounded">
+		</div>
+    </div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img9.JPG" alt="9" width=70% height=auto border="0" class="rounded">
+		</div>
+	</div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img10.JPG" alt="10" width=70% height=auto border="0" class="rounded">
+		</div>
+	</div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img15.JPG" alt="15" width=70% height=auto border="0" class="rounded">
+		</div>
+    </div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img16.JPG" alt="16" width=70% height=auto border="0" class="rounded">
+		</div>
+	</div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img17.JPG" alt="17" width=70% height=auto border="0" class="rounded">
+		</div>
+    </div>
+	<div class="carousel-item">
+	<div class="text-center">
+			<img src="gallery/img18.JPG" alt="18" width=70% height=auto border="0" class="rounded">
+		</div>
+    </div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img24.JPG" alt="24" width=70% height=auto border="0" class="rounded">
+		</div>
+    </div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img25.JPG" alt="25" width=70% height=auto border="0" class="rounded">
+		</div>
+	</div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img26.JPG" alt="26" width=70% height=auto border="0" class="rounded">
+		</div>
+	</div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img28.JPG" alt="28" width=70% height=auto border="0" class="rounded">
+		</div>
+    </div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img29.JPG" alt="29" width=70% height=auto border="0" class="rounded">
+		</div>
+    </div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img30.JPG" alt="30" width=70% height=auto border="0" class="rounded">
+		</div>
+    </div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img31.JPG" alt="31" width=70% height=auto border="0" class="rounded">
+		</div>
+    </div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img32.JPG" alt="32" width=70% height=auto border="0" class="rounded">
+		</div>
+    </div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img33.JPG" alt="33" width=70% height=auto border="0" class="rounded">
+		</div>
+    </div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img34.JPG" alt="34" width=70% height=auto border="0" class="rounded">
+		</div>
+	</div>
+	<div class="carousel-item">
+		<div class="text-center">
+			<img src="gallery/img35.JPG" alt="35" width=70% height=auto border="0" class="rounded">
+		</div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</section>
+
+
+
+<footer class="pt-4 my-md-5 pt-md-5 border-top">
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<div class="text-center">
+					<h6>Instagram</h6>
+					<a href="https://www.instagram.com/epitet4/">
+						<img class="inst" src="images/inst.PNG" alt="" width="50" height="50">
+					</a>
+				</div>
+			</div>
+			<div class="col">
+				<div class="text-center">
+					<h6>VK</h6>
+					<a href="https://vk.com/jagr121">
+						<img class="vk" src="images/vk.PNG" alt="" width="50" height="50">
+					</a>
+				</div>
+			</div>
+			<div class="col">
+				<div class="text-center">
+					<h6>Telegramm</h6>
+					<a href="https://t.me/jagr121">
+						<img class="telegramm" src="images/telegram.PNG" alt="" width="50" height="50">
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+<script type="text/javascript" src="js/jquery-3.5.1.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.js"></script>
+
+</footer>
+
+</body>
+
+</html>
